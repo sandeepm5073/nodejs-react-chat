@@ -1,0 +1,6 @@
+import { MultiChatSocket }
+const ChatsPage = () => {
+    return <>chats...</>
+}
+
+export default ChatsPage
